@@ -1,0 +1,13 @@
+ streamlit 
+ pandas 
+ numpy 
+ matplotlib
+ seaborn 
+ pandas_profiling 
+ plotly
+ plotly 
+ scipy
+ plotly 
+ scikit-learn
+setuptools
+
