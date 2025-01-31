@@ -1,13 +1,13 @@
  streamlit 
- pandas 
- numpy 
+ pandas  
  matplotlib
  seaborn 
  pandas_profiling 
  plotly
  plotly 
  scipy
- plotly 
- scikit-learn
+ plotly
  setuptools
  pydantic-settings
+ numpy==1.23.5
+ scikit-learn==1.2.2
