@@ -9,5 +9,5 @@
  scipy
  plotly 
  scikit-learn
-setuptools
-
+ setuptools
+ pydantic-settings
